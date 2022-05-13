@@ -1,2 +1,6 @@
 print("Hello world!")
-print("Hello once")
+<<<<<<< HEAD
+print("Hello once again")
+=======
+print("Hello once again")
+>>>>>>> normal-merge/feature/add-logging
